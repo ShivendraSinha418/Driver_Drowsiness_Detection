@@ -5,7 +5,7 @@ The project is implemented entirely in a Jupyter notebook and aims to support re
 
 ---
 
-![Banner](drowsy_driver_banner.png)
+![Banner](https://github.com/ShivendraSinha418/Driver_Drowsiness_Detection/blob/main/dw.png)
 
 ---
 
