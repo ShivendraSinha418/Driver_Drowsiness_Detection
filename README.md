@@ -65,4 +65,4 @@ model.add(Dense(32, activation='relu'))
 model.add(Dropout(0.2))
 
 model.add(Dense(1, activation='sigmoid'))
----
+
