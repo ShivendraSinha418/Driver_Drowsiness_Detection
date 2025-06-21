@@ -1,6 +1,6 @@
 # 💤 Drowsy Driver Classifier
 
-A deep learning model that detects driver drowsiness from face images using a custom-built Convolutional Neural Network (CNN).  
+A deep learning model that detects driver drowsiness from face images using a custom-built Convolutional Neural Network (CNN). 
 The project is implemented entirely in a Jupyter notebook and aims to support real-time driver monitoring systems.
 
 ---
